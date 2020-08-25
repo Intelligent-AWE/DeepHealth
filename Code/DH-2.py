@@ -31,14 +31,10 @@ lr = 0.0001
 hidden_units = seq_length / 8
 maxlen = 8
 num_blocks = 3
-num_epochs = 150
+num_epochs = 2
 num_heads = 8
 dropout_rate = 0.1
 lambda_loss_amount = 0.0015
-
-# Parameters about model or result saving
-result_path = "./"
-model_path = "./"
 
 # Modules
 def ln(inputs, epsilon=1e-8, scope="ln"):
@@ -311,7 +307,7 @@ with tf.Session() as sess:
                "Validation time = {:.3f}".format(validation_time_end-validation_time_start))
         print()
 
-    saver.save(sess, '{}'.format(model_path))
+    saver.save(sess, './DH2-{}'.format(seq_length))
     print("Model saved")
 time_end = time.time()
 train_time.append(time_end - time_start)

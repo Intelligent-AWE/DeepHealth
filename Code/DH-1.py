@@ -36,10 +36,6 @@ num_heads = 8
 dropout_rate = 0.1
 lambda_loss_amount = 0.0015
 
-# Parameters about model or result saving
-result_path = "./"
-model_path = "./"
-
 # Modules
 def normalize(inputs, epsilon=1e-8, scope="ln", reuse=None):
 
@@ -254,7 +250,7 @@ with tf.Session() as sess:
         print("Valuate Accuracy = {:.4f}".format(valuate_accuracy), "Valuate Loss = {:.4f}".format(valuate_loss), "Validation time = {:.3f}".format(validation_time_end-validation_time_start))
         print()
 
-    saver.save(sess, '{}/{}'.format(model_path, seq_length))
+    saver.save(sess, './DH1-{}'.format(seq_length))
     print("Model saved")
 time_end = time.time()
 train_time.append(time_end-time_start)
