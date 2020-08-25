@@ -8,9 +8,9 @@ Notably, The data are collected from real industrial facilities via destructive 
 
 ## Code Description
 
-1) There are four python files under the Code document, namely, "DH-1", "Data_DH_1", "DH-2", and "Data_DH_2". "DH-1" and "DH-2" are corresponding to the model structure of the DeepHealth paper, and "Data_DH_1" and "Data_DH_2" are the data preprocessing methods for the corresponding models.
+There are four python files under the Code document, namely, "DH-1", "Data_DH_1", "DH-2", and "Data_DH_2". "DH-1" and "DH-2" are corresponding to the model structure of the DeepHealth paper, and "Data_DH_1" and "Data_DH_2" are the data preprocessing methods for the corresponding models.
 
-2) Experiment environment: 
+Experiment environment: 
    IDE: PyCharm 
    Language: Python 3.6
    Tensorflow: 1.14.0
