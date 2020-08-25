@@ -15,5 +15,5 @@ Experiment environment: <br>
       Language: Python 3.6 <br>
       Tensorflow: 1.14.0 <br>
    
-
+<br>
 Lastly, we really appreciate the joint efforts of our partner company (including the engineers of the factory) who provide sufficient time and fire-new equipment for the destructive experiment. 
