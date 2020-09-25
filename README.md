@@ -13,18 +13,18 @@ Notably, The data are collected from real industrial facilities via destructive 
 There are four python files under the Code document, namely, "DH-1", "Data_DH_1", "DH-2", and "Data_DH_2". "DH-1" and "DH-2" are corresponding to the model structure of the original paper, and "Data_DH_1" and "Data_DH_2" are the data preprocessing methods for the corresponding models. As described in the original paper, taking the predicted sensor sequences of "DH-2" as the newly samples, and then feed these samples into "DH-1", the corresponding health conditions of future moments can be identified rapidly, thereby completing the future health condition prediction and achieving the instant intelligent predictive maintenance functionalities.
 
 Experiment environment: <br>
-      IDE: PyCharm <br>
-      Language: Python 3.6 <br>
-      Tensorflow: 1.14.0 <br>
+      &#160; &#160; &#160; &#160;IDE: PyCharm <br>
+      &#160; &#160; &#160; &#160;Language: Python 3.6 <br>
+      &#160; &#160; &#160; &#160;Tensorflow: 1.14.0 <br>
 
 ## Paper Citation
 
 If you use the AWE dataset or feel this paper is helpful for your research, please cite our paper. We are really appreciate your citation. 
 @article{zhang2012deephealth,<br>
   &#160; &#160; &#160; &#160;title={DeepHealth: A Self-Attention Based Method for Instant Intelligent Predictive Maintenance in Industrial Internet of Things},<br>
-  author={Weiting Zhang, Dong Yang, Youzhi Xu, Xuefeng Huang, Jun Zhang, Mikael Gidlund},<br>
-  journal={IEEE Transactions on Industrial Informatics},<br>
-  year={Early Access, 2020},<br>
+  &#160; &#160; &#160; &#160;author={Weiting Zhang, Dong Yang, Youzhi Xu, Xuefeng Huang, Jun Zhang, Mikael Gidlund},<br>
+  &#160; &#160; &#160; &#160;journal={IEEE Transactions on Industrial Informatics},<br>
+  &#160; &#160; &#160; &#160;year={Early Access, 2020},<br>
   publisher={IEEE}<br>
 }<br>
 
