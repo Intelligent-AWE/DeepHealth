@@ -19,7 +19,7 @@ Experiment environment: <br>
 
 ## Paper Citation
 
-If you use the AWE dataset or feel this paper is helpful for your research, please cite our paper. We are really appreciate your citation. 
+If you use the AWE dataset or feel this paper is helpful for your research, please cite the following paper. We are really appreciate your citation. 
 @article{zhang2012deephealth,<br>
   &#160; &#160; &#160; &#160;title={DeepHealth: A Self-Attention Based Method for Instant Intelligent Predictive Maintenance in Industrial Internet of Things},<br>
   &#160; &#160; &#160; &#160;author={Weiting Zhang, Dong Yang, Youzhi Xu, Xuefeng Huang, Jun Zhang, Mikael Gidlund},<br>
