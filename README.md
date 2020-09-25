@@ -25,7 +25,7 @@ If you use the AWE dataset or feel this paper is helpful for your research, plea
   &#160; &#160; &#160; &#160;author={Weiting Zhang, Dong Yang, Youzhi Xu, Xuefeng Huang, Jun Zhang, Mikael Gidlund},<br>
   &#160; &#160; &#160; &#160;journal={IEEE Transactions on Industrial Informatics},<br>
   &#160; &#160; &#160; &#160;year={Early Access, 2020},<br>
-  publisher={IEEE}<br>
+  &#160; &#160; &#160; &#160;publisher={IEEE}<br>
 }<br>
 
 <br>
