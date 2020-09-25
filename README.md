@@ -20,13 +20,13 @@ Experiment environment: <br>
 ## Paper Citation
 
 If you use the AWE dataset or feel this paper is helpful for your research, please cite our paper. We are really appreciate your citation. 
-@article{zhang2012deephealth,
-  title={DeepHealth: A Self-Attention Based Method for Instant Intelligent Predictive Maintenance in Industrial Internet of Things},
-  author={Weiting Zhang, Dong Yang, Youzhi Xu, Xuefeng Huang, Jun Zhang, Mikael Gidlund},
-  journal={IEEE Transactions on Industrial Informatics},
-  year={Early Access, 2020},
-  publisher={IEEE}
-}
+@article{zhang2012deephealth,<br>
+  title={DeepHealth: A Self-Attention Based Method for Instant Intelligent Predictive Maintenance in Industrial Internet of Things},<br>
+  author={Weiting Zhang, Dong Yang, Youzhi Xu, Xuefeng Huang, Jun Zhang, Mikael Gidlund},<br>
+  journal={IEEE Transactions on Industrial Informatics},<br>
+  year={Early Access, 2020},<br>
+  publisher={IEEE}<br>
+}<br>
 
 <br>
 Lastly, we really appreciate the joint efforts of our partner company (including the engineers of the factory) who provide sufficient time and fire-new equipment for the destructive experiment. 
