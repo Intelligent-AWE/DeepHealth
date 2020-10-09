@@ -24,7 +24,7 @@ If you use the AWE dataset or this paper is helpful for your research, please ci
   &#160; &#160; &#160; &#160;title={{DeepHealth: A self-attention based method for instant intelligent predictive maintenance in industrial Internet of things}},<br>
   &#160; &#160; &#160; &#160;author={Weiting Zhang, Dong Yang, Youzhi Xu, Xuefeng Huang, Jun Zhang, Mikael Gidlund},<br>
   &#160; &#160; &#160; &#160;journal={IEEE Transactions on Industrial Informatics},<br>
-  &#160; &#160; &#160; &#160;year={Early Access, Oct. 2020, doi: 10.1109/TII.2020.3029551},<br>
+  &#160; &#160; &#160; &#160;year={Early access, Oct. 2020, doi: 10.1109/TII.2020.3029551},<br>
   &#160; &#160; &#160; &#160;publisher={IEEE}<br>
 }<br>
 
